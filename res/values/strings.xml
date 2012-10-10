@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">YouTubeSignInTut</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="refused_message">Looks like you refused our application to help you upload videos onto YouTube. This is where we part ways :-(</string>
+    <string name="title_activity_oauth">OAuthActivity</string>
+    <string name="title_ativity_auth">AuthActivity</string>
+    <string name="title_activity_refusal">Refused Access</string>
+
+</resources>
